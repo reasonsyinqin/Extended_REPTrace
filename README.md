@@ -18,9 +18,6 @@ This program must be run on Linux OS, and has been verified on CentOS 7, CentOS 
 - `tracer.c`/`tracer.h`: Source code for REPAgent.
 - `event_linking.cpp`: Source code for the Central Generator.
 
-### Running Environment
-
-- **Central generator**: Runs in Python 2.7 and requires `treelib==1.6.1` for visualization.
 
 ### Configuration
 
